@@ -1,0 +1,79 @@
+.logo{
+	display: inline-block;
+	margin-left: 50px;
+}
+.list{
+	display: inline-block;
+	margin-left: 700px;
+}
+ul li{
+	list-style: none;
+	display: inline;
+	padding:20px;
+}
+.relat{
+	position: relative;
+}
+.abs{
+	position: absolute;
+	width:400px;
+	margin-left: 300px;
+	margin-top: -400px;
+	color: white
+
+}
+.center{
+	text-align: center;
+	margin: 50px 0px;
+}
+.part1{
+	position: relative;
+	display: inline-block;
+	margin-left: 200px;
+}
+.relative{
+	position: absolute;
+	width: 550px; 
+	top:500px;
+	left: 100px;
+}
+.relative button{
+	background-color: #2E9AFE;
+}
+
+
+.part2{
+	position: relative;
+	display: inline-block;
+}
+.absolute{
+	position: absolute;
+	width: 550px; 
+	top:500px;
+	left: 100px;
+}
+.absolute button{
+	background-color: #FE9A2E;
+}
+.main{
+	background-color: #A4A4A4;
+	color: white;
+	padding: 50px;
+}
+
+.lis ul li{
+	list-style: none;
+	display: block;
+	margin-left: -40px;
+}
+.lis1 ul li{
+	list-style: none;
+	display: inline-block;
+	margin-bottom: -10px;
+
+}
+.lis2 ul li{
+	list-style: none;
+	display: block;
+	margin-left: -40px;
+}
